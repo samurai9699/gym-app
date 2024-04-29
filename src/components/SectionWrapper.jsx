@@ -13,4 +13,4 @@ export default function SectionWrapper(props) {
             </div>
         </section>
     )
-} 
+}   
